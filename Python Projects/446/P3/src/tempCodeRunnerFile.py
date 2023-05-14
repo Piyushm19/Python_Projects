@@ -1,0 +1,1 @@
+write(sorted(findPhrase(invIndex, ['poor', 'yorick'], scenes)), 'phrase0.txt')
